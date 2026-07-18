@@ -1,0 +1,23 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "activities": {
+        "sports": [
+            "basketball",
+            "tennis",
+            "swimming",
+            "cycling"
+        ],
+        "artistic": [
+            "painting",
+            "photography",
+            "sculpture",
+            "creative writing"
+        ],
+        "intellectual": [
+            "chess",
+            "puzzle solving",
+            "robotics",
+            "philosophy study"
+        ]
+    }
+}
